@@ -1,38 +1,82 @@
-.App {
-  text-align: center;
+.conference{
+  background: linear-gradient(to right, #3624A4 50%, white 50%);
+  -webkit-background-clip: text; /* For older webkit browsers */
+  background-clip: text;
+  color: transparent;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.bookshelf {
+  width: 80%;
+  height: 100%;
+  margin: 0 auto;
+  border-bottom: 10px #A87328 solid;
+  border-right: 10px #A87328 solid;
+  border-left: 10px #A87328 solid;
+  overflow: hidden;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.book {
+  height: 200px;
+  width: 40px;
+  float: left;
   color: white;
+  font-size: 0.9em;
+  font-family: Verdana, sans-serif;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  transition: transform 0.4s ease;
 }
 
-.App-link {
-  color: #61dafb;
+.book-tilted {
+  float: left;
+  width: 74px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.book-tilted > .book {
+  transform: translateY(-3px) translateX(15px) rotate(9deg) ;
+}
+
+.book:hover {
+  transform: scale(1.05);
+}
+
+.book-green {
+  background-color: darkgreen;
+  border-left: 2px solid lighten(darkgreen, 4%);
+  border-right: 2px solid darken(darkgreen, 4%);
+}
+
+.book-blue {
+  background-color: #0C347D;
+  border-left: 2px solid lighten(#0C347D, 4%);
+  border-right: 2px solid darken(#0C347D, 4%);
+}
+
+.book-umber {
+  background-color: #0C347D;
+  border-left: 2px solid lighten(#0C347D, 4%);
+  border-right: 2px solid darken(#0C347D, 4%);
+}
+
+.book-springer {
+  background-color: #EDED80;
+  border-left: 2px solid lighten(#EDED80, 4%);
+  border-right: 2px solid darken(#EDED80, 4%);
+  color: black;
+}
+
+.book h2 {
+  padding: 0;
+  font-size: 1em;
+  transform-origin: 0% 0%;
+  transform: rotate(0.25turn) translateY(-35px);
+  width: 170px;
+}
+
+.book h3 {
+  padding: 0;
+  font-size: 0.7em;
+  transform-origin: 0 0;
+  transform: rotate(0.25turn) translateY(-15px) translateX(-20px);
+  width: 150px;
 }
