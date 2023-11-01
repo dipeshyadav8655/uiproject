@@ -1,11 +1,9 @@
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
-
-// Import Swiper styles
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
-import { Pagination,Navigation } from "swiper/modules";
+import { Navigation } from "swiper/modules";
 
 import SliderImage1 from '../Assets/SliderImage1.svg';
 import SliderImage2 from '../Assets/SliderImage2.svg';
