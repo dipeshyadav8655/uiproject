@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/uiproject/static/css/main.01b398d9.css",
+    "main.js": "/uiproject/static/js/main.eef23cca.js",
+    "static/js/787.c4dde30e.chunk.js": "/uiproject/static/js/787.c4dde30e.chunk.js",
+    "static/media/MaskGroups.svg": "/uiproject/static/media/MaskGroups.21f0d56363e86da2beed6020e1df50b7.svg",
+    "static/media/About1.svg": "/uiproject/static/media/About1.989acd6e2f8ece9c557d5728a655680d.svg",
+    "static/media/ConferenceImage.svg": "/uiproject/static/media/ConferenceImage.0967196a9e8672bee032e8fdc1a252ce.svg",
+    "static/media/SliderImage2.svg": "/uiproject/static/media/SliderImage2.6092d29396bab54477559b099e60d868.svg",
+    "static/media/SliderImage1.svg": "/uiproject/static/media/SliderImage1.9d09735ffe0580197b58d8a4094f41e2.svg",
+    "static/media/SliderImage3.svg": "/uiproject/static/media/SliderImage3.5536435ae57c185be25fcbdf22315de7.svg",
+    "static/media/GetInTouchLeft.svg": "/uiproject/static/media/GetInTouchLeft.d195a006ae960e5ad917de57703ab984.svg",
+    "static/media/GetInTouchRight.svg": "/uiproject/static/media/GetInTouchRight.52eb67a8c87112d70cf87fdc2933d934.svg",
+    "static/media/SliderImage4.svg": "/uiproject/static/media/SliderImage4.5ec7167a3f0d2474cfcbee1d66a6cf39.svg",
+    "static/media/CTOorVPImage.svg": "/uiproject/static/media/CTOorVPImage.12ae4115d5a7dcb826d2767abce69756.svg",
+    "static/media/GetInTouchMiddle.svg": "/uiproject/static/media/GetInTouchMiddle.021641133759267f5d18682bf7932669.svg",
+    "static/media/Team3.svg": "/uiproject/static/media/Team3.daba21eb28b6b909ab771ae7d24c5424.svg",
+    "static/media/Team2.svg": "/uiproject/static/media/Team2.d1bf8fbcbd890f4d43d710250374e9d0.svg",
+    "static/media/Team1.svg": "/uiproject/static/media/Team1.ff8ab4b72c0957203e24b2b584dd75e5.svg",
+    "static/media/Team4.svg": "/uiproject/static/media/Team4.c7761f361d3b7a539ec76714b302aa6c.svg",
+    "static/media/Rectangle.svg": "/uiproject/static/media/Rectangle.88b65c90cc5bacfba6a5c1dc492990d2.svg",
+    "static/media/TeamsButton.svg": "/uiproject/static/media/TeamsButton.037374ca8bf2f0db4e45fec6123b4c93.svg",
+    "static/media/GetInTouchText.svg": "/uiproject/static/media/GetInTouchText.f1221f1498fb3b80adf4928890b85311.svg",
+    "static/media/Twenty.svg": "/uiproject/static/media/Twenty.78b20bb79e8bfed3aaf9a70490990b22.svg",
+    "static/media/BestDesignGuide.svg": "/uiproject/static/media/BestDesignGuide.a82030789af62c52d153d03283fbf448.svg",
+    "static/media/GuideImage.svg": "/uiproject/static/media/GuideImage.b6ee3d4ed47942a42a62b86d811c69b1.svg",
+    "static/media/TeamText.svg": "/uiproject/static/media/TeamText.16d39928d7dd0d0b4dcad30b78f49241.svg",
+    "static/media/SocialIcons.svg": "/uiproject/static/media/SocialIcons.fa3280f312c278bdfd767f1692a65bb9.svg",
+    "static/media/Correct.svg": "/uiproject/static/media/Correct.575a6a0134a644ef1825b913617f9280.svg",
+    "index.html": "/uiproject/index.html",
+    "static/media/Star 30.svg": "/uiproject/static/media/Star 30.72f4326ba030be1302593d09e7164cc7.svg",
+    "static/media/About3.svg": "/uiproject/static/media/About3.b39687c52fb3a30d33a534ced05ca963.svg",
+    "static/media/About2.svg": "/uiproject/static/media/About2.792dd29cb1ac7a9a1bf7af80421c0f5c.svg",
+    "main.01b398d9.css.map": "/uiproject/static/css/main.01b398d9.css.map",
+    "main.eef23cca.js.map": "/uiproject/static/js/main.eef23cca.js.map",
+    "787.c4dde30e.chunk.js.map": "/uiproject/static/js/787.c4dde30e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01b398d9.css",
+    "static/js/main.eef23cca.js"
+  ]
+}
